@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow",
+  "description": "A beautiful, minimalist project management portal with a modern SaaS aesthetic, featuring advanced task filtering, full user authentication, and beautiful visual telemetry charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
